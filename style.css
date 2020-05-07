@@ -94,7 +94,7 @@ body::-webkit-scrollbar-thumb {
     background: #6649b8;
 }
 
-main {
+.main {
     margin-left: 5rem;
     height:100%;
     padding: 0rem;
