@@ -13,9 +13,6 @@
             .when('/projects', {
                 templateUrl:'projects.html'
             })
-            .when('/resume', {
-                templateUrl:'resume.html'
-            })
             .when('/contact', {
                 templateUrl:'contact.html'
             })

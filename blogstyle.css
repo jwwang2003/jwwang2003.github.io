@@ -84,8 +84,6 @@
     left: -50%;
     top: -50%;
     z-index: -5;
-    transition: all, var(--transition-time);
-    transition-timing-function: ease-in-out;
 }
 
 .card:hover {
