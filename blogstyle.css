@@ -35,10 +35,6 @@
     text-decoration: none;
 }
 
-.card:hover {
-    transform: rotate(0);
-}
-
 .card h1 {
     margin: 0;
     font-size: 1.5em;
@@ -94,24 +90,8 @@
     transition-timing-function: ease-in-out;
 }
 
-.card:before {
-    background: #ddd;
-    width: 250%;
-    height: 250%;
-}
-
-.card:after {
-    background: white;
-    width: 200%;
-    height: 200%;
-}
-
 .card:hover {
     color: var(--color);
-}
-
-.card:hover:before, .card:hover:after {
-    transform: scale(1);
 }
 
 .card-grid-space .num {
