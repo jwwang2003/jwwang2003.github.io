@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jimmy&#39;s Blog</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on Jimmy&#39;s Blog</description>
+    <title>Blogs on Jimmy&#39;s Blog</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Jimmy&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Mar 2025 00:08:59 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog</title>
       <link>//localhost:1313/blog/my-first-blog/</link>
       <pubDate>Wed, 19 Mar 2025 00:08:59 +0800</pubDate>
       <guid>//localhost:1313/blog/my-first-blog/</guid>
       <description>&lt;p&gt;This is a page about »My First Blog«.&lt;/p&gt;&#xA;&lt;p&gt;Hello there! My name is Jimmy~&lt;/p&gt;&#xA;&lt;p&gt;I am currently in my Junior year at Fudan University studying Software Engineering (软件工程).&lt;/p&gt;&#xA;&lt;p&gt;And I have something to day about Fudan.&lt;/p&gt;&#xA;&lt;p&gt;IT&lt;/p&gt;&#xA;&lt;p&gt;IS&lt;/p&gt;&#xA;&lt;p&gt;GAY&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/test/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/test/test/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>//localhost:1313/my-new-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/my-new-page/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
