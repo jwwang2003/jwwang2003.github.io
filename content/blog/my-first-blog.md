@@ -8,7 +8,9 @@ description = ""
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = []
+tags = [""]
+[params]
+  author = 'Jimmy Wang'
 +++
 
 Hello there! My name is Jimmy~
